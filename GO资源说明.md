@@ -16,7 +16,9 @@ github上还有另外一个go module proxy的实现：[goproxy](https://github.c
 
 不过该项目提供的global proxy: https://goproxy.io/ 却是可以在国内使用的，并且速度还很快！Gopher们只需将该proxy配置到GOPROXY中即可：
 
-```export GOPROXY=https://goproxy.io```
+```bash
+export GOPROXY=https://goproxy.io
+```
 
 相关文章：[Hello，Go module proxy](https://tonybai.com/2018/11/26/hello-go-module-proxy/)
 
