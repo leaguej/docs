@@ -11,6 +11,7 @@ A very small library to build modern HTML5 desktop apps in Go. It uses Chrome br
 ### [athens: A Go module datastore and proxy https://docs.gomods.io](https://github.com/gomods/athens)
 
 a proxy server for the Go Modules download API.
+相关文章：[Hello，Go module proxy](https://tonybai.com/2018/11/26/hello-go-module-proxy/)
 
 ### [GoFrame, Go 应用开发框架](https://gitee.com/johng/gf)
 
