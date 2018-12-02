@@ -12,6 +12,12 @@ A very small library to build modern HTML5 desktop apps in Go. It uses Chrome br
 
 a proxy server for the Go Modules download API.
 
+github上还有另外一个go module proxy的实现：[goproxy](https://github.com/goproxyio/goproxy)。该项目目前看仅是一个public module proxy，并未提供对private repo中module获取的支持。
+
+不过该项目提供的global proxy: https://goproxy.io/ 却是可以在国内使用的，并且速度还很快！Gopher们只需将该proxy配置到GOPROXY中即可：
+
+```export GOPROXY=https://goproxy.io```
+
 相关文章：[Hello，Go module proxy](https://tonybai.com/2018/11/26/hello-go-module-proxy/)
 
 ### [GoFrame, Go 应用开发框架](https://gitee.com/johng/gf)
