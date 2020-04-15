@@ -1,3 +1,5 @@
+# project muse free covid journal
+
 |publication_title|print_identifier|online_identifier|date_first_issue_online|num_first_vol_online|num_first_issue_online|date_last_issue_online|num_last_vol_online|num_last_issue_online|title_url|first_author|title_id|embargo_info|coverage_depth|notes|publisher_name|publication_type|date_monograph_published_print|date_monograph_published_online|monograph_volume|monograph_edition|first_editor|parent_publication_title_id|preceding_publication_title_id|access_type|oclc_number|
 |Hispanic Review|0018-2176|1553-0639|2005-12|73|1||||https://muse.jhu.edu/journal/289||853||fulltext||University of Pennsylvania Press|serial||||||||P|
 |Women and Music: A Journal of Gender and Culture|1090-7505|1553-0612|2004|8|1||||https://muse.jhu.edu/journal/300||862||fulltext||University of Nebraska Press|serial||||||||P|
